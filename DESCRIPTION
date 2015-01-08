@@ -3,10 +3,10 @@ Type: Package
 Title: GC Statistics Datasets
 Version: 0.1
 Date: 2015-01-08
-Author:  HomerWhite <hwhite0@georgetowncollege.edu>
+Author: HomerWhite <hwhite0@georgetowncollege.edu>
 Maintainer: HomerWhite <hwhite0@georgetowncollege.edu>
-Description: A small, informal collection of datasets useful in 
-undergraduate statistics courses.
+Description: A small, informal collection of datasets useful in
+    undergraduate statistics courses.
 License: GPL (>=3)
 LazyLoad: yes
 LazyData: true

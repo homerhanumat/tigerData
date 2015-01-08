@@ -1,0 +1,44 @@
+#' Territoriality in Parking
+#'
+#' A study of how long it takes a driver to vacate his/her 
+#' spot in a parking lot.
+#'
+#'
+#' @name parking
+#' @docType data
+#' @format A data frame with 237 observations on the following 12 variables.
+#' \describe{ \item{confcar}{The type of car that was waiting for the parking 
+#' spot (or that just drove by).  Either a Nissan Maxima, a Lexus 
+#' or an Infinity Q45. The car is "confronting" the parked car, hence the
+#' name of the variable.}
+#' \item{sex}{Sex of the driver of the parked car.}
+#' \item{race}{Race of the driver of the parked car.}
+#' \item{num}{Number of people in the parked car (including the driver).}
+#' \item{horn}{The waiting car either did not intrude on the parked car at all,
+#' intruded only slightly by driving by, or stopped near the parking spot and
+#' waited.  In that case the waiting car either honked the horn once, or did
+#' not honk at all.}
+#' \item{carval}{Book value of the parked car, in dollars.}
+#' \item{month}{Month in which the incident occurred.}
+#' \item{day}{Day of the week on which the incident occurred.}
+#' \item{miltime}{Time at which the incident occurred, in military units.
+#' For example, 1130 denotes 11:30AM, while 1350 denotes for 1:50PM.}
+#' \item{time}{Time in seconds for the parked car to depart the parking
+#' spot.}
+#' \item{ccstatus}{Status of the waiting "confronting" car.  The Maxima
+#' is considered a low-status car, whereas the Lexus and Infinity Q45 are
+#' expensive, "high-status" cars.}
+#' \item{valuediff}{Difference in value between the confronting car and the
+#' parked car, in dollars.  The values of the confronting cars were s follows:
+#' Maxima:  5200, Lexus:  43000, Infinity Q45:  57000.}
+#'  }
+#' @source "Territorial Defense in Parking Lots: Retaliation 
+#' Against Waiting Drivers", B. Ruback and D. Juieng, Jounral of Applied
+#' Social Psychology, Volume 27, Issue 9, May 1997, pp. 821-834.
+#' Provided by B. Ruback.
+#' @note This is almost the orginal data.  B. Ruback indicates
+#' (personal communication) that three observations are missing and
+#' cannot be recovered at the present time.
+#' @keywords datasets
+#'
+NA
