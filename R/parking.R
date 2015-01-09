@@ -33,7 +33,7 @@
 #' Maxima:  5200, Lexus:  43000, Infinity Q45:  57000.}
 #'  }
 #' @source "Territorial Defense in Parking Lots: Retaliation 
-#' Against Waiting Drivers", B. Ruback and D. Juieng, Jounral of Applied
+#' Against Waiting Drivers", B. Ruback and D. Juieng, Journal of Applied
 #' Social Psychology, Volume 27, Issue 9, May 1997, pp. 821-834.
 #' Provided by B. Ruback.
 #' @note This is almost the orginal data.  B. Ruback indicates
