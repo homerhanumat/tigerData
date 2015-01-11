@@ -15,6 +15,7 @@ scores indicate poorer attitudes.}
 scores indicate more academic problems.}
 \item{adhd}{Scaled scores from a test for AHDH.  Higher scores indicates
 more problems with ADHD.}
+\item{fires}{Whether or not the child sets fires (0 = does not, 1 = does).}
 }}
 \source{
 Doctroal dissertation by Carrie H. Bowling, University of Kentucky,

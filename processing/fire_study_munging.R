@@ -1,9 +1,8 @@
 require(foreign)
 
 
-# fac.big <- read.spss("FactorAnalysis_merged_renamed0921.sav")
-names(fac.big)
-grep(names(fac.big),pattern="acade")
+fac.big <- read.spss("FactorAnalysis_merged_renamed0921.sav")
+
 fac.big$acadeCBCL
 fac <- with(fac.big,
             data.frame(age=age,sex=sex_RC,
@@ -43,6 +42,7 @@ firesetting <- data.frame(
   age=fac$age,sex=fac$sex,race=fac$race,
   school.attitude=fac$school.att,
   academic=fac$academic,
-  adhd=fac$adhd.scaled)
+  adhd=fac$adhd.scaled,
+  fires=fac$fires)
 
 save(firesetting,file="../data/firesetting.rda")
