@@ -9,7 +9,7 @@
 or C as described above) by the researchers.}
 \item{time}{Time in seconds that the subject spent on the
 phone.}
- }}
+}}
 \source{
 R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
 Intrusion on Callers Leads to Territorial Defense" Social Psychology
@@ -18,7 +18,7 @@ communication).
 }
 \description{
 Will people using a public pay-phone talk longer if someone is
-waiting to use their phone?  In this experiment, conducted in 1989, "the
+waiting to use their phone? In this experiment, conducted in 1989, "the
 investigators
 measured the length of time (in seconds) that subjects spent on the telephone
 under one of three conditions: when alone (A), when one person was using an
