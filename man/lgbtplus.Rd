@@ -30,7 +30,7 @@
 }}
 \source{
 Hunter Gatewood, Molly Dixon, Almond Bailey.  Class: PSY 311, Fall 2014.
-Instructor:  Dr. Regan Lookadoo. For survey form see \url{../inst/doc/lbgt_likert.pdf}.
+Instructor:  Dr. Regan Lookadoo. For survey form see \url{../doc/lbgt_likert.pdf}.
 }
 \description{
 Georgetown College students surveyed their peers on attitudes

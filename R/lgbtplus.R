@@ -31,7 +31,7 @@
 #' \item{Q11E}{ }
 #' }
 #' @source  Hunter Gatewood, Molly Dixon, Almond Bailey.  Class: PSY 311, Fall 2014.
-#' Instructor:  Dr. Regan Lookadoo. For survey form see \url{../inst/doc/lbgt_likert.pdf}.
+#' Instructor:  Dr. Regan Lookadoo. For survey form see \url{../doc/lbgt_likert.pdf}.
 #' @note  From Hunter Gatewood (email): "It was coded mainly based upon the numbers
 #' stated within the questions. For question 7 (on the front), if they answered no
 #' for question 6 (front), we coded it as 5. For question 11, we had to separate
