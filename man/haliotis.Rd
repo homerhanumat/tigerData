@@ -17,7 +17,9 @@
 \item{Age}{number of rings, plus 1.5}
 }}
 \source{
-Withheld until the projects are turned in.
+Dataset derived from the UCI Machine Learning Repository.  See
+\url{http://archive.ics.uci.edu/ml/datasets/Abalone} for more information,
+including a citation of the original research article.
 }
 \description{
 Subset of data from a study on sea snails of the
@@ -26,6 +28,12 @@ close to the number of rings it has on its shell plus 1.5. The idea
 is to predict the age of an individual sea snail from other
 characteristics.  The rest of the data is witheld for evalution
 purposes.
+}
+\details{
+From the ICU website:  "The age of abalone is determined by 
+cutting the shell through the cone, staining it, and counting the number of 
+rings through a microscope -- a boring and time-consuming task.  
+Other measurements, which are easier to obtain, are used to predict the age."
 }
 \keyword{datasets}
 

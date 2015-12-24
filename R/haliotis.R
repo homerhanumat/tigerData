@@ -7,6 +7,11 @@
 #' characteristics.  The rest of the data is witheld for evalution
 #' purposes.
 #' 
+#' @details From the ICU website:  "The age of abalone is determined by 
+#' cutting the shell through the cone, staining it, and counting the number of 
+#' rings through a microscope -- a boring and time-consuming task.  
+#' Other measurements, which are easier to obtain, are used to predict the age."
+#' 
 #'
 #' @name haliotis
 #' @docType data
@@ -22,7 +27,9 @@
 #' \item{ShellWt}{weight of the snails's shell}
 #' \item{Age}{number of rings, plus 1.5}
 #' }
-#' @source  Withheld until the projects are turned in.
+#' @source  Dataset derived from the UCI Machine Learning Repository.  See
+#' \url{http://archive.ics.uci.edu/ml/datasets/Abalone} for more information,
+#' including a citation of the original research article.
 #' @keywords datasets
 #'
 NA
