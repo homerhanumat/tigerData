@@ -1,2 +1,3 @@
 # tigerData
-A few datasets for statistics instruction
+
+A few datasets for statistics instruction.

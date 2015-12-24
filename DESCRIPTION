@@ -10,3 +10,4 @@ Description: A small, informal collection of datasets useful in
 License: GPL (>=3)
 LazyLoad: yes
 LazyData: true
+RoxygenNote: 5.0.0
