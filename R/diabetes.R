@@ -6,7 +6,7 @@
 #'
 #' @name diabetes
 #' @docType data
-#' @format A data frame with 5891 observations on the following 23 variables.
+#' @format A data frame with 9096 observations on the following 23 variables.
 #' \describe{
 #' \item{\code{sex}}{\code{"male"} or \code{"female"}}
 #' \item{\code{age}}{age of subject in years}
