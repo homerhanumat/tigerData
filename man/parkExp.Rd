@@ -47,4 +47,3 @@ This is almost the orginal data.  B. Ruback indicates
 cannot be recovered at the present time.
 }
 \keyword{datasets}
-

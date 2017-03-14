@@ -48,4 +48,3 @@ whether or not the mushroom is edible.  Remaining data is held back
 for evaluation of proposed rules.
 }
 \keyword{datasets}
-

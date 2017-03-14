@@ -20,4 +20,3 @@ Personality and Social Psychology, 1988, Vol. 54, No. 1, 74-85.
 "malevolence", and the average penslty yardage for each team was also recorded.
 }
 \keyword{datasets}
-

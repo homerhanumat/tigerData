@@ -36,4 +36,3 @@ rings through a microscope -- a boring and time-consuming task.
 Other measurements, which are easier to obtain, are used to predict the age."
 }
 \keyword{datasets}
-

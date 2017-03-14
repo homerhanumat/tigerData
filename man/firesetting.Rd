@@ -29,4 +29,3 @@ at-risk youth.  The data comes from national surveys of at-risk
 teenagers.
 }
 \keyword{datasets}
-

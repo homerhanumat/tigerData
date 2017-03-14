@@ -30,4 +30,3 @@ only the two adjacent telphones." (Quotation from Business Statistics,
 6th. ed. 1992, by W. Daniel and J. Terrell.)
 }
 \keyword{datasets}
-

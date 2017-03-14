@@ -4,7 +4,7 @@
 \name{diabetes}
 \alias{diabetes}
 \title{Diabetes Risk}
-\format{A data frame with 5891 observations on the following 23 variables.
+\format{A data frame with 9096 observations on the following 23 variables.
 \describe{
 \item{\code{sex}}{\code{"male"} or \code{"female"}}
 \item{\code{age}}{age of subject in years}
@@ -48,4 +48,3 @@ for Health Statistics (NCHS). The original data was based on home interviews
 of about 5,000 people per years, from 1999-2004.
 }
 \keyword{datasets}
-
