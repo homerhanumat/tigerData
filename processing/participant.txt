@@ -1,0 +1,12 @@
+Part_ID	Part_Class	Part_Fname	Part_Mname	Part_Lname	Part_Address	Part_City	Part_State	Part_Zip	Part_Email	Part_Phone
+1	member	Homer	S	White	198 Hiawatha Trail	Georgetown	KY	40324	homerhanumat@gmail.com	502-499-2983
+2	member	Gloria	M	Estefan	202 Sunset Blvd.	Los Angeles	CA	21341	gloria2356@gmail.com	208-456-8765
+3	member	Ramnath	K	Vidyanathan	101 Pleasant St.	Lexington	KY	40073	ramnath43@place.com	859-444-6754
+4	member	Bettina	A	Grumwald	845 S. Ridge St., Apt 4B	Lexington	KY	40045	luvmath89@gmail.com	NULL
+5	member	Victoria	Penelope	Grafton	214 South Market St.	Lexington	KY	40070	vickyyoga@yahoo.com	859-347-3682
+6	member	Aaron	S	Sorkin	300 Tiny Lane	Versailles	KY	41345	bigbadwolf@yahoo.com	877-657-4352
+7	member	Sita	V	Patel	504 East Main St.	Lexington	KY	40071	sittingsita@gmail.com	859-245-7906
+8	member	Catherine	M	Colalillo	823 Mount Hebron Pike	Frankfort	KY	41356	cathy4567@yahoo.com	859-347-3682
+9	visitor	Quincy	Peter	Martin	345 S. Landsdowne Rd.	Lexington	KY	40065	quincydbgeek@yahoo.com	859-777-9091
+10	visitor	Adriana	L	LaRue	2345 N. Limestone St.	Lexington	KY	40067	floatingfish@gmail.com	859-675-8731
+11	visitor	Felicia	C	Clark	314 Narrow Ridge Rd.	Stamping Ground	KY	40456	happyfelicia@yahoo.com	NULL

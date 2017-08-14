@@ -1,0 +1,108 @@
+Part_ID	Event_ID	EP_Amount_Paid	EP_Notes	EP_Attended
+1	16	70.00	bringing lentils	yes
+1	17	70.00	bringing lentils	yes
+1	18	70.00	bringing lentils	yes
+1	21	35.00	bringing lentils	yes
+1	22	35.00	bringing lentils	yes
+1	23	NULL	NULL	yes
+1	24	NULL	NULL	yes
+1	25	NULL	NULL	yes
+1	26	NULL	NULL	yes
+1	27	NULL	bringing duck	yes
+1	28	NULL	bringing duck	yes
+1	29	NULL	bringing duck	yes
+1	30	NULL	bringing duck	yes
+2	23	NULL	NULL	yes
+2	24	NULL	NULL	no
+2	25	NULL	NULL	yes
+2	26	NULL	NULL	no
+3	16	70.00	bringing salad	yes
+3	17	70.00	bringing salad	yes
+3	18	70.00	bringing salad	yes
+3	19	35.00	bringing salad	yes
+3	20	35.00	bringing salad	yes
+3	21	35.00	bringing salad	yes
+3	22	35.00	bringing salad	yes
+3	23	NULL	NULL	yes
+3	24	NULL	NULL	yes
+3	25	NULL	NULL	yes
+3	26	NULL	NULL	yes
+3	27	NULL	bringing pig	yes
+3	28	NULL	bringing pig	yes
+3	29	NULL	bringing pig	no
+3	30	NULL	bringing pig	yes
+4	16	50.00	bringing beans	yes
+4	17	50.00	bringing beans	yes
+4	18	0.00	bringing beans	no
+4	19	35.00	bringing beans	yes
+4	20	30.00	bringing beans	yes
+4	21	25.00	bringing beans	yes
+4	22	25.00	bringing beans	yes
+4	23	NULL	NULL	yes
+4	24	NULL	NULL	yes
+4	25	NULL	NULL	yes
+4	26	NULL	NULL	yes
+5	16	70.00	bringing dessert	yes
+5	17	70.00	bringing dessert	yes
+5	18	70.00	bringing dessert	yes
+5	19	35.00	bringing dessert	yes
+5	20	35.00	bringing dessert	yes
+5	21	35.00	bringing dessert	yes
+5	22	35.00	bringing dessert	yes
+5	23	NULL	NULL	yes
+5	24	NULL	NULL	yes
+5	25	NULL	NULL	yes
+5	26	NULL	NULL	yes
+5	27	NULL	bringing goat	yes
+5	28	NULL	bringing goat	yes
+5	29	NULL	bringing goat	yes
+5	30	NULL	bringing goat	yes
+6	16	70.00	bringing tea	yes
+6	17	70.00	bringing tea	yes
+6	18	70.00	bringing tea	yes
+6	19	35.00	bringing tea	yes
+6	20	35.00	bringing tea	yes
+6	21	35.00	bringing tea	yes
+6	22	35.00	bringing tea	yes
+6	23	NULL	NULL	yes
+6	24	NULL	NULL	yes
+6	25	NULL	NULL	no
+6	26	NULL	NULL	yes
+7	16	0.00	bringing forks	no
+7	17	60.00	bringing forks	yes
+7	18	0.00	bringing forks	yes
+7	19	35.00	bringing forks	yes
+7	20	30.00	bringing forks	yes
+7	21	30.00	bringing forks	yes
+7	22	20.00	bringing forks	yes
+7	27	NULL	bringing snakes	yes
+7	28	NULL	bringing snakes	yes
+7	29	NULL	bringing snakes	yes
+7	30	NULL	bringing snakes	yes
+8	16	45.00	bringing fruit	yes
+8	17	45.00	bringing fruit	yes
+8	18	45.00	bringing fruit	yes
+8	19	10.00	bringing fruit	yes
+8	20	10.00	bringing fruit	yes
+8	21	20.00	bringing fruit	yes
+8	22	20.00	bringing fruit	yes
+9	27	NULL	bringing tarantulas	yes
+9	28	NULL	bringing tarantulas	no
+9	29	NULL	bringing tarantulas	yes
+9	30	NULL	bringing tarantulas	yes
+10	16	70.00	NULL	yes
+10	17	70.00	NULL	yes
+10	18	70.00	NULL	yes
+10	19	35.00	NULL	yes
+10	20	30.00	NULL	yes
+10	21	25.00	NULL	yes
+10	22	25.00	NULL	yes
+11	16	70.00	NULL	yes
+11	17	70.00	NULL	no
+11	18	70.00	NULL	yes
+11	19	35.00	NULL	yes
+11	20	20.00	NULL	yes
+11	27	NULL	bringing oats	yes
+11	28	NULL	bringing oats	yes
+11	29	NULL	bringing oats	yes
+11	30	NULL	bringing oats	yes

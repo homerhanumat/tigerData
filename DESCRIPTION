@@ -1,8 +1,8 @@
 Package: tigerData
 Type: Package
 Title: GC Statistics Datasets
-Version: 0.1
-Date: 2017-03-14
+Version: 0.2
+Date: 2017-08-14
 Author: Homer White <hwhite0@georgetowncollege.edu>
 Maintainer: Homer White <hwhite0@georgetowncollege.edu>
 Description: A small, informal collection of datasets useful in
