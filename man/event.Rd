@@ -4,7 +4,8 @@
 \name{event}
 \alias{event}
 \title{Zen Center Events}
-\format{A data frame with 15 observations on the following 7 variables.
+\format{
+A data frame with 15 observations on the following 7 variables.
 \describe{ 
 \item{Event_ID}{Event ID}
 \item{Event_Type}{Type of event.  A factor with levels \code{potluck},
@@ -14,7 +15,8 @@
 \item{Event_End}{Ending time of the event.}
 \item{Event_Cost}{Nominal cost of the event, in dollars.}
 \item{Part_ID}{ID of the participant who organizes the event.}
-}}
+}
+}
 \source{
 Hypothetical data.
 }

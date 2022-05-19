@@ -13,4 +13,4 @@ License: GPL (>=3)
 LazyLoad: yes
 LazyData: true
 URL: https://github.com/homerhanumat/tigerData
-RoxygenNote: 6.1.0
+RoxygenNote: 7.1.1

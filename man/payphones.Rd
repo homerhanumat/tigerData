@@ -4,13 +4,15 @@
 \name{payphones}
 \alias{payphones}
 \title{Territoriality in Pay-Phones}
-\format{A data frame with 56 observations on the following 3 variables.
+\format{
+A data frame with 56 observations on the following 3 variables.
 \describe{ \item{sex}{Sex of the subject.}
 \item{treatment}{Which condition the subject was put into (A, B
 or C as described above) by the researchers.}
 \item{time}{Time in seconds that the subject spent on the
 phone.}
-}}
+}
+}
 \source{
 R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
 Intrusion on Callers Leads to Territorial Defense" Social Psychology

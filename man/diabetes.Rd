@@ -4,7 +4,8 @@
 \name{diabetes}
 \alias{diabetes}
 \title{Diabetes Risk}
-\format{A data frame with 9096 observations on the following 23 variables.
+\format{
+A data frame with 9096 observations on the following 23 variables.
 \describe{
 \item{\code{sex}}{\code{"male"} or \code{"female"}}
 \item{\code{age}}{age of subject in years}
@@ -34,7 +35,8 @@ Other Hispanic, Non-Hispanic White, Non-Hispanic Black, or Other/Multi}
 \item{\code{bpd}}{diastolic blood pressure, mmHg}
 \item{\code{income}}{ratio of family income to poverty threshold. 
 (5 stands for a ratio greater than or equal to 5)}
-}}
+}
+}
 \source{
 Modified from \code{NCHS} in package \code{DataComputing}.
 The original data is from NHANES, the National Health and

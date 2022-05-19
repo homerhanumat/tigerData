@@ -4,7 +4,8 @@
 \name{participant}
 \alias{participant}
 \title{Zen Center Participants}
-\format{A data frame with 11 observations on the following 11 variables.
+\format{
+A data frame with 11 observations on the following 11 variables.
 \describe{ 
 \item{Part_ID}{Participant ID}
 \item{Part_Class}{Type of the participant.  A factor with levels \code{member}
@@ -18,7 +19,8 @@ and \code{visitor}.}
 \item{Part_Zip}{Postal code of participant.}
 \item{Part_Email}{Email address of participant.}
 \item{Part_Phone}{Phone number of participant.}
-}}
+}
+}
 \source{
 Hypothetical data.
 }

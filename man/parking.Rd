@@ -4,7 +4,8 @@
 \name{parking}
 \alias{parking}
 \title{Territoriality in Parking}
-\format{A data frame with 237 observations on the following 12 variables.
+\format{
+A data frame with 237 observations on the following 12 variables.
 \describe{ \item{confcar}{The type of car that was waiting for the parking 
 spot (or that just drove by).  Either a Nissan Maxima, a Lexus 
 or an Infinity Q45. The car is "confronting" the parked car, hence the
@@ -29,7 +30,8 @@ expensive, "high-status" cars.}
 \item{valuediff}{Difference in value between the confronting car and the
 parked car, in dollars.  The values of the confronting cars were s follows:
 Maxima:  5200, Lexus:  43000, Infinity Q45:  57000.}
- }}
+ }
+}
 \source{
 "Territorial Defense in Parking Lots: Retaliation 
 Against Waiting Drivers", B. Ruback and D. Juieng, Journal of Applied
