@@ -4,7 +4,8 @@
 \name{nhanes18}
 \alias{nhanes18}
 \title{National Health and Nutrition Examination Survey}
-\format{A data frame with 9842 observations on the following 18 variables.
+\format{
+A data frame with 9842 observations on the following 18 variables.
 \describe{
 \item{\code{id}}{An ID number for the subject}
 \item{\code{gender}}{\code{"male"} or \code{"female"}}
@@ -28,7 +29,8 @@ had a heart attack?  (yes, no)}
 liver condition?  (yes, no)}
 \item{\code{cancer}}{Was the subject ever told he/she had a 
 cancer or malignancy?  (yes, no)}
-}}
+}
+}
 \source{
 NHANES, the National Health and
 Nutrition Survey.

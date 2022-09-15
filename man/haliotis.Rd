@@ -4,7 +4,8 @@
 \name{haliotis}
 \alias{haliotis}
 \title{Age of Sea Snails?}
-\format{A data frame with 2923 observations on the following 9 variables.
+\format{
+A data frame with 2923 observations on the following 9 variables.
 \describe{ 
 \item{Type}{male, femal or infant}
 \item{LongSh}{length of longest shell}
@@ -15,7 +16,8 @@
 \item{ViscWt}{weight of the snail's viscera}
 \item{ShellWt}{weight of the snails's shell}
 \item{Age}{number of rings, plus 1.5}
-}}
+}
+}
 \source{
 Dataset derived from the UCI Machine Learning Repository.  See
 \url{http://archive.ics.uci.edu/ml/datasets/Abalone} for more information,

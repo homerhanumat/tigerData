@@ -4,12 +4,14 @@
 \name{uniformsNFL}
 \alias{uniformsNFL}
 \title{Malevolence of NFL Uniforms and Penalty Yardage}
-\format{A data frame with 28 observations on the following 3 variables.
+\format{
+A data frame with 28 observations on the following 3 variables.
 \describe{ \item{team}{Name of NFL team.}
 \item{malevolence}{Rating of "malevolence" accorded to the eam uniform.  High scores
 indicate more malevolence.}
 \item{z_pen_yards}{Mean penalty yardage per game for the team, expressed as a z-score.}
-}}
+}
+}
 \source{
 The Dark Side of Self- and Social Perception:  Black Uniforms and 
 Agression in Professional Sports, Frank and Gilovich, Journal of

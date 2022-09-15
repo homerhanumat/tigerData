@@ -4,14 +4,16 @@
 \name{donation}
 \alias{donation}
 \title{Zen Center Donations}
-\format{A data frame with 66 observations on the following 5 variables.
+\format{
+A data frame with 66 observations on the following 5 variables.
 \describe{ 
 \item{Don_ID}{Donation ID}
 \item{Part_ID}{Participant ID}
 \item{Don_Amount}{Amount of donation, in dollars.}
 \item{Don_Date}{Date of donation.}
-\item{Don_Form}{A factor with two levels:  \code{cash} and \code{check}.}
-}}
+\item{Don_Form}{A character vector with two values:  \code{cash} and \code{check}.}
+}
+}
 \source{
 Hypothetical data.
 }

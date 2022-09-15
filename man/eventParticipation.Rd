@@ -4,14 +4,16 @@
 \name{eventParticipation}
 \alias{eventParticipation}
 \title{Zen Center Participants}
-\format{A data frame with 107 observations on the following 5 variables.
+\format{
+A data frame with 107 observations on the following 5 variables.
 \describe{ 
 \item{Part_ID}{Participant ID}
 \item{Event_ID}{ID of the participant.}
 \item{EP_Amount_Paid}{Amount actually paid by the participant.}
 \item{EP_Notes}{Miscellaneous comments}
 \item{EP_Attended}{Whether or not the participant actually attended.}
-}}
+}
+}
 \source{
 Hypothetical data.
 }

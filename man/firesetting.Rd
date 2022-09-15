@@ -4,7 +4,8 @@
 \name{firesetting}
 \alias{firesetting}
 \title{Fire-setting Among Teenagers}
-\format{A data frame with 975 observations on the following 6 variables.
+\format{
+A data frame with 975 observations on the following 6 variables.
 \describe{ 
 \item{age}{Child's age in years.}
 \item{sex}{Sex of the child.}
@@ -17,7 +18,8 @@ scores indicate more academic problems.}
 \item{adhd}{Scaled scores from a test for AHDH.  Higher scores indicates
 more problems with ADHD.}
 \item{fires}{Whether or not the child sets fires (0 = does not, 1 = does).}
-}}
+}
+}
 \source{
 Doctroal dissertation by Carrie H. Bowling, University of Kentucky,
 2013.. Further details in \url{../doc/firesetting_phd_proposal.pdf}.

@@ -4,7 +4,8 @@
 \name{lgbtplus}
 \alias{lgbtplus}
 \title{Homonegativity in Greek Life}
-\format{A data frame with 75 observations on the following 22 variables.
+\format{
+A data frame with 75 observations on the following 22 variables.
 \describe{
 \item{Gender}{ }
 \item{LGBTPlus}{ }
@@ -28,7 +29,8 @@
 \item{Q9E}{ }
 \item{Q10V}{ }
 \item{Q11E}{ }
-}}
+}
+}
 \source{
 Hunter Gatewood, Molly Dixon, Almond Bailey. Class: PSY 311, Fall 2014.
 Instructor: Dr. Regan Lookadoo. For survey form see \url{../doc/lbgt_likert.pdf}.

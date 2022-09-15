@@ -4,7 +4,8 @@
 \name{shrooms}
 \alias{shrooms}
 \title{Can You Eat This Mushroom?}
-\format{A data frame with 5891 observations on the following 23 variables.
+\format{
+A data frame with 5891 observations on the following 23 variables.
 \describe{ 
 \item{class}{Whether the mushroom is edible or poisonous.}
 \item{cap.shape}{}
@@ -29,7 +30,8 @@
 \item{spore.print.color}{}
 \item{population}{}
 \item{habitat}{}
-}}
+}
+}
 \source{
 A sample from of mushroom records drawn from The Audubon Society 
 Field Guide to North American Mushrooms (1981). G. H. Lincoff (Pres.), 
