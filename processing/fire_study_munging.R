@@ -43,6 +43,11 @@ firesetting <- data.frame(
   school.attitude=fac$school.att,
   academic=fac$academic,
   adhd=fac$adhd.scaled,
-  fires=fac$fires)
+  fires=ifelse(
+    fac$fires == "0",
+    0,
+    1
+  ))
+
 
 save(firesetting,file="../data/firesetting.rda")
