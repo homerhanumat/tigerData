@@ -1,0 +1,23 @@
+url: ~
+template:
+  bootstrap: 5
+reference:
+  - title: "Data"
+    desc:  "A few datasets for teaching."
+    contents:
+      - cars2017
+      - diabetes
+      - donation
+      - event
+      - eventParticipation
+      - firesetting
+      - haliotis
+      - lgbtplus
+      - nhanes18
+      - parkExp
+      - parking
+      - participant
+      - payphones
+      - reviews
+      - shrooms
+      - uniformsNFL

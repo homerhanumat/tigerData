@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 processing
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
