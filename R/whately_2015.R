@@ -3,6 +3,8 @@
 #' @description Weather data collected at the Macleish Field Station in Whately, 
 #' MA during 2015.  This is a copy of the whately_2015 data from 
 #' package `macleish`: <https://github.com/beanumber/macleish>.
+#' 
+#' @name whately_2015
 #'
 #' @details The Macleish Field Station is a remote outpost owned by Smith
 #' College and used for field research. There are two weather stations on the 
@@ -54,4 +56,6 @@
 #'   \item{par_total}{Photosynthetically Active Radiation (sunlight between 400 and 700 nm), in average total over measurement period of Watts/meters^2. One of two solar measurements for Orchard}
 #' }
 #' @source These data are recorded at <https://www.smith.edu/about-smith/sustainable-smith/ceeds> 
-"whately_2015"
+#' @keywords datasets
+#' 
+NA
