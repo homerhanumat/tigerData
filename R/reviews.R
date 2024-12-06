@@ -1,31 +1,23 @@
 #' Amazon.com Book Reviews
 #'
-#' @description Amazon.com reader-reviews of several popular books. 
+#' Amazon.com reader-reviews of several popular books.
+#' 
+#' @name reviews 
 #'
-#' @name reviews
-#' @docType data
 #' @format A data frame with 243,269 observations on the following 5 variables.
 #' \describe{
-#' \item{\code{book}}{The book under review. Values along with 
-#' book-titles are as follows:
-#' 
-#' \itemize{
-#' \item{\code{hunger:  }}{"The Hunger Games"}
-#' \item{\code{shades:  }}{"Fifty Shades of Gray"}
-#' \item{\code{fault:  }}{"The Fault in our Stars"}
-#' \item{\code{martian:  }}{"The Martian"}
-#' \item{\code{unbroken:  }}{"Unbroken"}
-#' \item{\code{gonegirl:  }}{"The Gone Girl"}
-#' \item{\code{traingirl:  }}{"Girl on a Train"}
-#' \item{\code{goldfinch:  }}{"The Goldfinch"}
-#' }
-#' }
-#' \item{\code{rating}}{rating assigned (1-5)}
-#' \item{\code{URL_fragment}}{Prepend "https://www.amazon.com/" 
+#'    \item{\code{book}}{The book under review. Values along with 
+#' book-titles are as follows:  hunger = The Hunger Games,
+#' shades Fifty Shades of Gray, fault = The Fault in our Stars,
+#' martian = The Martian, unbroken =  Unbroken,
+#' gonegirl =  The Gone Girl,
+#' goldfinch =  The Goldfinch}
+#'    \item{\code{rating}}{rating assigned (1-5)}
+#'    \item{\code{URL_fragment}}{Prepend "https://www.amazon.com/" 
 #' to get the full URL of the review.}
-#' \item{\code{review_title}}{Title of the review; usually a 
+#'    \item{\code{review_title}}{Title of the review; usually a 
 #' concise judgment of the book.}
-#' \item{\code{content}}{HTML of the review text.}
+#'    \item{\code{content}}{HTML of the review text.}
 #' }
 #' @source  This data frame is a compilation of the data sets in
 #' "Amazon Book Reviews", in the UC-Irvine Machine Learning Repository.

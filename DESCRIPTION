@@ -1,8 +1,8 @@
 Package: tigerData
 Type: Package
 Title: GC Statistics Datasets
-Version: 0.2.1
-Date: 2021-02-07
+Version: 0.2.2
+Date: 2024-12-05
 Author: Homer White <hwhite0@georgetowncollege.edu>
 Maintainer: Homer White <hwhite0@georgetowncollege.edu>
 Description: A small, informal collection of datasets useful in
@@ -12,5 +12,6 @@ Encoding: UTF-8
 License: GPL (>=3)
 LazyLoad: yes
 LazyData: true
+LazyDataCompression: xz
 URL: https://github.com/homerhanumat/tigerData
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
