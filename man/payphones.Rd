@@ -14,7 +14,7 @@ phone.}
 }
 }
 \source{
-R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
+See Study 5 in R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
 Intrusion on Callers Leads to Territorial Defense" Social Psychology
 Quarterly, 52:232-241. Gender data provided by R.B. Ruback (personal
 communication).

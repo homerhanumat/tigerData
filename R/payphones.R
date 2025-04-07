@@ -21,7 +21,7 @@
 #' \item{time}{Time in seconds that the subject spent on the
 #' phone.}
 #' }
-#' @source R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
+#' @source See Study 5 in R.B. Ruback, K.D. Poe, and P.Doriat, "Waiting on a Phone:
 #' Intrusion on Callers Leads to Territorial Defense" Social Psychology
 #' Quarterly, 52:232-241. Gender data provided by R.B. Ruback (personal
 #' communication).
