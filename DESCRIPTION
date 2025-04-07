@@ -13,5 +13,7 @@ License: GPL (>=3)
 LazyLoad: yes
 LazyData: true
 LazyDataCompression: xz
-URL: https://github.com/homerhanumat/tigerData
+URL: 
+  https://homerhanumat.github.io/tigerData
+  https://github.com/homerhanumat/tigerData
 RoxygenNote: 7.3.2

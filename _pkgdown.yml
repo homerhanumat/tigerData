@@ -6,6 +6,7 @@ reference:
     desc:  "A few datasets for teaching."
     contents:
       - cars2017
+      - deathpenalty
       - diabetes
       - donation
       - event
